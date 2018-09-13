@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\bin\Debug\FirstGitProject.exe.config
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\bin\Debug\FirstGitProject.exe
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\bin\Debug\FirstGitProject.pdb
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\obj\Debug\FirstGitProject.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\obj\Debug\FirstGitProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\obj\Debug\FirstGitProject.exe
+C:\Users\DELL\source\repos\FirstGitHuboject\FirstGitProject\obj\Debug\FirstGitProject.pdb
